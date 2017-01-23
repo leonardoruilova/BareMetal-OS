@@ -19,3 +19,4 @@ The complete documentation for BareMetal, including instructions on running it, 
 See LICENSE.TXT for redistribution/modification rights, and CREDITS.TXT for a list of people involved.
 
 Ian Seyler (ian.seyler@returninfinity.com)
+Traduccion: Virgilio Leonardo Ruilova - Licencia : Creative Commons - By - NC
