@@ -12,11 +12,12 @@ BareMetal es un Sistema Operativo de 64-bit para computadores de CPU x86-64. El 
 
 BareMetal es un Sistema Operativo para procesadores de 64-bit, en modo protegido, para computadores x86-64. El codigo de Baremetal OS es el lenguaje Ensamblado y su proceso de boot puede ser desde un disco duro o desde la red. Puede usar Baremetal mediante una linea de comandos. En Baremetal existe soporte para [discos duros formateados en el sistema de ficheros BMFS](https://github.com/ReturnInfinity/BMFS) y es posible usar el parlante interno de su computador. Ud puede cargar programas externos y dar uso a mas de 60 llamadas a sistema. Es posible utilizar todos los CPU disponibles en su computador mediante BareMetal.
 
-At the moment there is no plan to build BareMetal into a general-purpose operating system like Windows, Mac OS X, or Linux; it is designed to be as lean as possible while still offering useful features.
+En este momento no existen planes para que BareMetal sea un sistema de proposito general como Microsoft Windows, Apple MacOS o GNU Linux; su desarrollo es tan 'lean' como nos es posible, si bien nuestro Sistema Operativo entrega cualidades de gran utilidad.
 
-The complete documentation for BareMetal, including instructions on running it, building it and writing your own programs for it can be found in the docs/ directory.
+La documentacion de BareMetal se encuentra en el directorio docs/ e incluye instrucciones para su ejecucion, compilacion y para el desarrollo de su propio software.
 
-See LICENSE.TXT for redistribution/modification rights, and CREDITS.TXT for a list of people involved.
+La licencia de Baremetal esta en el documento LICENSE.TXT, donde estan detallados los derechos de redistribucion y modificacion. En el archivo CREDITS.TXT podra enterarse de han participado en nuestro proyecto.
 
 Ian Seyler (ian.seyler@returninfinity.com)
+
 Traduccion: Virgilio Leonardo Ruilova - Licencia : Creative Commons - By - NC
