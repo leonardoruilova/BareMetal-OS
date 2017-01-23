@@ -2,7 +2,7 @@
 
 [![JPor favor unase a nuestro chat https://gitter.im/ReturnInfinity/BareMetal-OS](https://badges.gitter.im/ReturnInfinity/BareMetal-OS.svg)](https://gitter.im/ReturnInfinity/BareMetal-OS?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-Copyright (C) 2007-2016 Return Infinity -- Por favor remitase a LICENSE.TXT
+Copyright (C) 2007-2016 Return Infinity -- Por favor remitase a LICENSE.TXT. La traduccion es de licencia CC-BY-NC
 
 BareMetal es un Sistema Operativo de 64-bit para computadores de CPU x86-64. El Sistema Operativo está programado en el lenguaje Assembly, sin embargo, el software puede ser programado en Ensamblado, C/C++ y Rust. Tres objetivos conducen el desarrollo de Baremetal OS:
 
