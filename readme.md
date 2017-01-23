@@ -1,4 +1,4 @@
-# BareMetal OS -- a 64-bit OS written in Assembly for x86-64 systems #
+# BareMetal OS -- Un Sistema Operativo de 64-bit programado en Ensamblado para sistemas x86-64 #
 
 [![JPor favor unase a nuestro chat https://gitter.im/ReturnInfinity/BareMetal-OS](https://badges.gitter.im/ReturnInfinity/BareMetal-OS.svg)](https://gitter.im/ReturnInfinity/BareMetal-OS?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
