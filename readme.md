@@ -20,4 +20,4 @@ La licencia de Baremetal OS esta en el documento LICENSE.TXT, donde están detal
 
 Autor: Ian Seyler (ian.seyler@returninfinity.com)
 
-Traducción al Castellano: Virgilio Leonardo Ruilova - Chile - Licencia : Creative Commons - By - NC
+Traducción al Castellano: Virgilio Leonardo Ruilova - Licencia : Creative Commons - BY - NC - SA
